@@ -1,8 +1,0 @@
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Открыл страницу админки
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Ввёл логин
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Ввёл пароль
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Нажал войти в админуку
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Нажал на категорий
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Нажал на продукты
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Ввёл имя продукта в фильт по имени
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Нажал отфильтровать

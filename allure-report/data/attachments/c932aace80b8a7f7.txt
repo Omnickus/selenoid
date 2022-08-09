@@ -1,2 +1,0 @@
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Открыл страницу - http://bitnami//laptop-notebook
-[32mINFO    [0m MPP-SELENIUM:logger.py:38 Все общие элементы присутствуют - http://bitnami//laptop-notebook

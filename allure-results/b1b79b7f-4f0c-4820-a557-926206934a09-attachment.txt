@@ -1,2 +1,0 @@
-INFO     MPP-SELENIUM:logger.py:38 Открыл страницу - http://bitnami/
-INFO     MPP-SELENIUM:logger.py:38 Проверяю элементы карточки по пути - //*[@id='content']/div[2]/div[4]/div/div[2]/h4/a

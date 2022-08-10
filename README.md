@@ -1,2 +1,2 @@
-# selenoid
-selenoid in project
+# lesson_6
+page_object

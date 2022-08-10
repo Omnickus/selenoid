@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+allure-results
+allure-report
+/screen_shot/*.png
+
 # C extensions
 *.so
 
